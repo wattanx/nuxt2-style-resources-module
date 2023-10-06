@@ -2,6 +2,31 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/nuxt-community/style-resources-module/compare/v1.2.1...v2.0.0) (2023-10-06)
+
+
+### Features
+
+* add playground ([4f98216](https://github.com/nuxt-community/style-resources-module/commit/4f98216cb5c51d284d45db99c1f93d142a5678d0))
+* nuxt 3 support ([1dd88cb](https://github.com/nuxt-community/style-resources-module/commit/1dd88cb33d8c0bb08edc836c0766be728020b1e0))
+* support for nuxt 3 ([187e77c](https://github.com/nuxt-community/style-resources-module/commit/187e77c26f49e3d2f68cb0f2ea6d160d573b1416))
+
+
+### Bug Fixes
+
+* add contributors ([f8a2abb](https://github.com/nuxt-community/style-resources-module/commit/f8a2abb75d828bc5b9fb3cf2e9414a2a3e4d87ac))
+* add pnpm setup ([a2455ba](https://github.com/nuxt-community/style-resources-module/commit/a2455ba4f87d3b4db930db506a02548f52b324c9))
+* add stub ([f8a97dd](https://github.com/nuxt-community/style-resources-module/commit/f8a97dd957f50f4fa43896ee0e0d0fb3c5754929))
+* added version supporting Nuxt 2 ([ae115a1](https://github.com/nuxt-community/style-resources-module/commit/ae115a1385f83c8489adf1ebb513e20c07b9bc40))
+* change to pnpm ([5d9d896](https://github.com/nuxt-community/style-resources-module/commit/5d9d8965dd6547d1d67a719129ed4ab57100f5b1))
+* fix ci ([a00afb9](https://github.com/nuxt-community/style-resources-module/commit/a00afb980d68412bd34b12477c14e366dc17d50a))
+* fix test ([3c9823f](https://github.com/nuxt-community/style-resources-module/commit/3c9823f1a832f4644e9767a5c5a48637e8d7d6ae))
+* new line ([a177fa3](https://github.com/nuxt-community/style-resources-module/commit/a177fa3233d9976b8bf4d8399364535d1cd20741))
+* rename to cjs ([b93ccce](https://github.com/nuxt-community/style-resources-module/commit/b93ccceac667955ac2c09521834cea45800d5fd6))
+* rename to cjs ([5e18d24](https://github.com/nuxt-community/style-resources-module/commit/5e18d24ae368d9363297aca39c3d49ff3fc0d733))
+* rename to src ([54ba5f4](https://github.com/nuxt-community/style-resources-module/commit/54ba5f402ab1ca11a10d3bbf201064ad14d6b63a))
+* resolveModule is deprecated ([4f92fcd](https://github.com/nuxt-community/style-resources-module/commit/4f92fcdeca6990fcc279cfbea8de1e0457214b3e))
+
 ### [1.2.1](https://github.com/nuxt-community/style-resources-module/compare/v1.2.0...v1.2.1) (2021-08-05)
 
 
